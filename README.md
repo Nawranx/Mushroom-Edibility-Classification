@@ -1,11 +1,5 @@
 # Mushroom Edibility Classification
 
-**Student Name:** Mohamed Nawran Nasar Mohamed  
-**Student ID:** AIU23102141  
-**Lab Group:** C  
-**Course:** CCS2213 Machine Learning  
-**Semester:** 2 2024/2025  
-
 ## 1. Introduction
 This project focuses on classifying mushrooms as either **edible (e)** or **poisonous (p)** based on their physical characteristics using machine learning techniques. The dataset used is the famous **Mushroom Dataset** from the UCI Machine Learning Repository, containing 8,124 instances with 22 categorical features.
 
